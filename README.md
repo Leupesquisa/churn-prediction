@@ -40,10 +40,10 @@ This project aims to predict customer churn using machine learning. It includes 
 - **CI/CD**: Continuous Integration and Continuous Deployment pipelines (optional, if applicable).
 - **GitHub Actions**: For automating workflows (optional, if applicable).
 
-### Productivity
-- **Visual Studio Code**: Recommended IDE for development.
-- **Prettier**: For code formatting.
-- **ESLint**: For JavaScript and React linting.
+## Data Source
+
+The data used in this project was originally made available on the IBM Developer educational platform. This data represents a typical scenario in a telecommunications company. The complete dataset is accessible [here](https://raw.githubusercontent.com/Leupesquisa/churn-prediction/main/WA_Fn-UseC_-Telco-Customer-Churn.csv).
+
 
 ## Installation
 
