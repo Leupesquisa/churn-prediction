@@ -1,6 +1,6 @@
 # Churn Prediction
 
-This project aims to predict customer churn using machine learning. It includes a front-end built with React and a back-end built with Django, interfacing with a MongoDB database. The project is containerized using Docker and orchestrated with Kubernetes.
+This project aims to predict customer churn using machine learning. It includes a front-end built with React and a back-end built with Django, interfacing with a MongoDB database.The system is designed to predict the likelihood of customers canceling their services based on historical data and to display these predictions in a visually appealing way for users, such as data analysts or managers within a financial institution.
 
 ## Key Features
 - Predict customer churn using machine learning models.
