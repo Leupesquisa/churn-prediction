@@ -23,11 +23,6 @@ This project aims to predict customer churn using machine learning. It includes 
 - **MongoDB**: For scalable and flexible NoSQL data storage.
 - **djongo**: To integrate Django with MongoDB.
 
-### Messaging
-- **RabbitMQ**: For messaging and task queuing (optional, if applicable).
-
-### Containerization
-- **Docker**: For containerizing the application, ensuring consistent environments.
 
 ### Orchestration
 - **Kubernetes**: For deploying and managing containerized applications at scale.
@@ -36,22 +31,12 @@ This project aims to predict customer churn using machine learning. It includes 
 - **JWT**: For secure authentication and authorization.
 - **HTTPS**: For secure data transmission (optional, if applicable).
 
-### Integration
-- **CI/CD**: Continuous Integration and Continuous Deployment pipelines (optional, if applicable).
-- **GitHub Actions**: For automating workflows (optional, if applicable).
 
 ## Data Source
 
 The data used in this project was originally made available on the IBM Developer educational platform. This data represents a typical scenario in a telecommunications company. The complete dataset is accessible [here](https://raw.githubusercontent.com/Leupesquisa/churn-prediction/main/WA_Fn-UseC_-Telco-Customer-Churn.csv).
 
 
-## Installation
-
-### Prerequisites
-- **Docker**: Ensure Docker is installed and running.
-- **Kubernetes**: Ensure Kubernetes is installed and configured (optional, if applicable).
-
-### Clone the Repository
 ```bash
 git clone https://github.com/leupesquisa/churn-prediction.git
 cd churn-prediction
