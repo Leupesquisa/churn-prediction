@@ -1,0 +1,46 @@
+/* Resetting default margin and padding for all elements */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Global settings to prevent horizontal scrolling */
+html, body {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+/* Ensuring the header spans the full width without any margins */
+.header {
+  width: 100%;
+  margin: 0;
+  padding: 10px 20px; /* Adjust padding as necessary */
+  background-color: #131921; /* Example background color */
+  color: white;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+/* Additional global settings to ensure content stays within bounds */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f3f3f3; /* Optional: Background color */
+  overflow-x: hidden; /* Prevent horizontal scroll */
+  max-height: 100vh;
+}
+
+.container {
+  max-width: 1200px; /* Optional: Limit max width of content */
+  margin: 0 auto;
+}
+
+/* Optional: Ensure the footer also spans the full width */
+.footer {
+  width: 100%;
+  padding: 10px 20px;
+  background-color: #232f3e; /* Example background color */
+  color: white;
+  text-align: center;
+}
