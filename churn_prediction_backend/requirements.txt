@@ -1,0 +1,10 @@
+Django>=3.2
+djangorestframework>=3.12.4
+djongo
+scikit-learn>=0.24.2
+joblib>=1.0.1
+djangorestframework-simplejwt>=4.7.2
+pandas
+matplotlib
+seaborn
+imbalanced-learn
