@@ -33,6 +33,16 @@ This project aims to predict customer churn using machine learning. It includes 
 - **JWT**: For secure authentication and authorization.
 - **HTTPS**: For secure data transmission (optional, if applicable).
 
+### Model Performance - Recall Scores
+
+| Model                    | Recall   |
+|---------------------------|----------|
+| Logistic Regression        | 0.764496 |
+| Support Vector Machines    | 0.754897 |
+| Random Forest              | 0.748465 |
+| K-Nearest Neighbors        | 0.734080 |
+| XGBoost                    | 0.732571 |
+| Decision Tree              | 0.679410 |
 
 ## Data Source
 
