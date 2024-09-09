@@ -15,6 +15,8 @@ This project aims to predict customer churn using machine learning. It includes 
 - **Redux**: For state management.
 - **Material-UI**: For component-based styling and design.
 
+  [![Portfolio](https://github.com/Leupesquisa/Leupesquisa/blob/main/churnprediction.gif)](https://github.com/Leupesquisa/FullStack-Development)
+
 ### Back-end
 - **Django**: For building a robust back-end with RESTful APIs.
 - **Django REST Framework**: For easy API creation and management.
